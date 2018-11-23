@@ -1,2 +1,2 @@
 # 4Dpredict-power-calculations
-Power simulation for predicting outcomes from cardiac motion analysis
+Power calculation for training and comparing models for cardiac motion analysis
